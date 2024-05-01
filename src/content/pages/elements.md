@@ -5,25 +5,32 @@ description: "this is meta description"
 draft: false
 ---
 
-# Heading 1
+# Our Work
 
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
 
 ---
 
-### Paragraph
+### PC Distribution:
 
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships.
+Donation of PCs to schools in underprivileged areas, like the initial contribution of 4 PCs to a public school in Almora, facilitating digital access for over 300 villagers.
 
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships.
+---
+
+### AI-Driven Learning Platform:
+
+Development of an AI-powered platform to teach essential skills such as coding and financial literacy, set to benefit over 2000 students in collaboration with partners like the Laksh Foundation and Pathways School Noida.
+
+---
+
+### Hardware Collection Drive:
+
+Collection and refurbishment of over 10 computers and various tech gadgets for educational use, in partnership with communities like ATS Hamlet and ATS Village.
+
+---
+
+### Fundraising Initiatives:
+
+Successful execution of fundraising activities, including bake sales, generating significant funds towards enhancing digital literacy and infrastructure.
 
 ---
 

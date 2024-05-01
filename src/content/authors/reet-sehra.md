@@ -1,6 +1,6 @@
 ---
-title: John Doe
-email: johndoe@email.com
+title: Reet Sehra - Fundraising Head
+email: williamjacob@email.com
 image: "/images/avatar.png"
 description: this is meta description
 social:

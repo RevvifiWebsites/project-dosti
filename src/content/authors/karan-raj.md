@@ -1,5 +1,5 @@
 ---
-title: Sam Wilson
+title: Karan Raj - Project Lead
 email: samwilson@email.com
 image: "/images/avatar.png"
 description: this is meta description
