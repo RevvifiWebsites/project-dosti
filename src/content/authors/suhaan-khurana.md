@@ -1,7 +1,7 @@
 ---
 title: Suhaan Khurana - Project Lead
 email: johndoe@email.com
-image: "/images/avatar.png"
+image: "/images/image11.png"
 description: this is meta description
 social:
   - name: github

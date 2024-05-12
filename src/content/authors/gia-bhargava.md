@@ -1,7 +1,7 @@
 ---
-title: Reet Sehra - Fundraising Head
-email: williamjacob@email.com
-image: "/images/image9.png"
+title: Gia Bhargava - Social Media Lead
+email: johndoe@email.com
+image: "/images/image5.png"
 description: this is meta description
 social:
   - name: github

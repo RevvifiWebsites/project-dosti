@@ -1,7 +1,7 @@
 ---
-title: Reet Sehra - Fundraising Head
-email: williamjacob@email.com
-image: "/images/image9.png"
+title: Abhijay Parija - Hardware Collection Head
+email: johndoe@email.com
+image: "/images/image2.png"
 description: this is meta description
 social:
   - name: github

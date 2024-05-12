@@ -1,7 +1,7 @@
 ---
 title: Karan Raj - Project Lead
 email: samwilson@email.com
-image: "/images/avatar.png"
+image: "/images/image6.png"
 description: this is meta description
 social:
   - name: github
