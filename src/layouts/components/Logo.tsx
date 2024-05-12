@@ -35,19 +35,10 @@ const Logo = ({ src }: { src?: string }) => {
   const logoPath = src ? src : resolvedLogo;
 
   return (
+    
     <Link href="/" className="navbar-brand inline-block">
       {logoPath ? (
-        <Image
-          width={logo_width.replace("px", "") * 2}
-          height={logo_height.replace("px", "") * 2}
-          src={logoPath}
-          alt={title}
-          priority
-          style={{
-            height: logo_height.replace("px", "") + "px",
-            width: logo_width.replace("px", "") + "px",
-          }}
-        />
+        <span>DOSTI</span>
       ) : logo_text ? (
         logo_text
       ) : (
