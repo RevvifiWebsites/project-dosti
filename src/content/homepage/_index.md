@@ -12,7 +12,7 @@ banner:
 features:
   - title: "Our Impact"
     image: "/images/service-1.png"
-    content: "please donate"
+    content: "Please consider donating."
     bulletpoints:
       - "Partner with Firms and Collected E-Waste, and use it to setup Computer Learning Centers To Create Communal Impact"
       - "700+ People Impacted"
